@@ -1,5 +1,35 @@
-body{background:#014049;}
-p {color: #dfbf80;}
-h2,h3 {color:#83e124;}
-p {font-size:1.05em;}
-h3{font-size:1.25em;}
+body{
+  background:#f0a1e6;
+}
+p {
+  color: #000000;
+}
+h1 , h2,h3 {
+  color:#0a7237;
+
+}
+p {
+  font-size:17px;
+}
+h3{
+  font-size:25px;
+}
+h1{
+  font-size:2em
+}
+a{
+  font:bold 30px;
+  color:ffffff;
+  border-radius:15px;
+  transition:background .5s,color. 5s;
+  background:#f0a1e6;
+  border:4px solid #f0a1e6;
+  text-decoration:none;
+  padding: 5px
+}
+a:hover{
+  background:#11a987;
+  color: #000;
+  border:4px solid #11a987;
+}
+/* second page code*/
